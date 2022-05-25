@@ -28,7 +28,6 @@
 
 
 
-
 ![top process](https://user-images.githubusercontent.com/97014059/169685951-622b7963-9337-4db8-b3be-8809041514ba.png)
 
 **$ps** 명령어는 명령어가 실행된 순간의 프로세스 상태들에 대해서 **정적인 정보**만을 제공하며,
